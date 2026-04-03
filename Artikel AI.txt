@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Artikel AI Saya</title>
+</head>
+<body>
+    <h1>Pengaruh AI bagi Kehidupan Manusia</h1>
+    
+    <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" alt="Ilustrasi otak digital kecerdasan buatan" width="600">
+
+    <p>Kecerdasan Buatan atau AI telah mengubah cara kita bekerja dan berinteraksi setiap hari.</p>
+
+    <h2>Manfaat AI di Bidang Kesehatan</h2>
+    <p>AI membantu dokter mendiagnosis penyakit dengan lebih cepat dan akurat.</p>
+
+    <h2>Manfaat AI di Bidang Pendidikan</h2>
+    <p>AI memungkinkan pembelajaran yang dipersonalisasi sesuai kebutuhan setiap siswa.</p>
+</body>
+</html>
